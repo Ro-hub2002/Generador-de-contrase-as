@@ -1,3 +1,3 @@
 Generador de Contraseñas,
 
-Practicando con Django
+Practicando con Django, SQLite3
